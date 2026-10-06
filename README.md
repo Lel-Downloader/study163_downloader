@@ -13,3 +13,6 @@
 
 ## 第四步：最后下载完成后，可以在本地文件夹点开播放视频，任意播放都可以观看
 <img width="1934" height="1242" alt="4" src="https://github.com/user-attachments/assets/23512bf9-987e-4f01-8974-8b078ab0d695" />
+
+
+## 参考项目：https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader
